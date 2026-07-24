@@ -13,13 +13,13 @@ This repository will document my progress.
 
 # Cybersecurity Learning Journey
 
-## Day 1
+## DAY 1
 ### CIA Triad
 - Confidentiality: Keeps data secret.
 - Integrity: Ensures data is not changed.
 - Availability: Keeps systems accessible.
 
-## Day 2
+## DAY 2
 ### Malware
 - Software designed to damage or steal data.
 
@@ -29,7 +29,7 @@ This repository will document my progress.
 ### Social Engineering
 - Manipulating people into giving away sensitive information.
 
-## Day 3
+## DAY 3
 ### Networking
 - Network: Two or more connected devices.
 - IP Address: Unique address for a device.
@@ -54,8 +54,9 @@ Since you answered all six correctly, you’ve now mastered:
 * ✅ Switches
 * ✅ LAN vs. WAN
 
-That’s an impressive amount of knowledge for just three days of study.
-Day 4 – Linux Fundamentals & Text Searching
+
+DAY 4 
+Linux Fundamentals & Text Searching
 
 Date: July 25, 2026
 
