@@ -37,8 +37,8 @@ This repository will document my progress.
 - Switch: Connects devices on the same network.
 - LAN: Local Area Network.
 - WAN: Wide Area Network.
-- chatgbtsaid this on day:3
-🏆 Achievement Unlocked
+- 
+🏆 Achievement Unlocked (chatgbt my teacher)
 
 Since you answered all six correctly, you’ve now mastered:
 
