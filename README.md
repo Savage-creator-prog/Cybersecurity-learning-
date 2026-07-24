@@ -37,3 +37,21 @@ This repository will document my progress.
 - Switch: Connects devices on the same network.
 - LAN: Local Area Network.
 - WAN: Wide Area Network.
+- chatgbtsaid this on day:3
+🏆 Achievement Unlocked
+
+Since you answered all six correctly, you’ve now mastered:
+
+* ✅ CIA Triad
+* ✅ Malware
+* ✅ Ransomware
+* ✅ Phishing
+* ✅ Social Engineering
+* ✅ Types of Hackers
+* ✅ Networks
+* ✅ IP Addresses
+* ✅ Routers
+* ✅ Switches
+* ✅ LAN vs. WAN
+
+That’s an impressive amount of knowledge for just three days of study.
