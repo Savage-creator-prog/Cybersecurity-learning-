@@ -147,5 +147,147 @@ Reflection
 
 Today I learned how to locate files efficiently using the find command and how to search for specific information inside files using the grep command. I also reinforced my understanding of Linux navigation with commands like pwd, ls, cd, and cat. These commands are fundamental tools for cybersecurity professionals because they make system navigation, file management, and log analysis much more efficient.
 
-Status: ✅ Day 4 Completed
+Status: ✅ Day 4 Completed🔐 Cybersecurity Analyst Journey – Day 5
+
+Authentication, Authorization & Multi-Factor Authentication (MFA)
+
+Date: July 26, 2026
+
+⸻
+
+Overview
+
+Day 5 focused on one of the most important concepts in cybersecurity: protecting user identities and accounts. I learned how authentication verifies a person’s identity, how authorization determines what they are allowed to access, and why strong passwords and Multi-Factor Authentication (MFA) are essential in defending against cyberattacks.
+
+These concepts are used every day by cybersecurity analysts when investigating account compromises and securing organizational systems.
+
+⸻
+
+Topics Covered
+
+Authentication
+
+Authentication is the process of verifying that a user is who they claim to be before granting access to a system.
+
+Examples:
+
+* Password
+* PIN
+* Fingerprint
+* Face ID
+
+⸻
+
+Authorization
+
+Authorization determines what an authenticated user is allowed to do after successfully logging in.
+
+Example:
+A bank customer can transfer money from their account, but they cannot access or modify the bank’s internal systems.
+
+⸻
+
+Authentication vs. Authorization
+
+Authentication	Authorization
+Confirms who you are	Determines what you can access
+Happens before access is granted	Happens after identity is verified
+
+⸻
+
+Strong Passwords
+
+A strong password should:
+
+* Be at least 12–16 characters long.
+* Include uppercase and lowercase letters.
+* Include numbers and special symbols.
+* Be unique for every account.
+
+Weak passwords are much easier for attackers to guess or crack.
+
+⸻
+
+Password Reuse
+
+Using the same password across multiple accounts is dangerous.
+
+If one website suffers a data breach, attackers may try those same login credentials on other services such as email, banking, or social media accounts.
+
+⸻
+
+Credential Stuffing
+
+Credential stuffing is a cyberattack where criminals use stolen usernames and passwords from one breach to attempt logins on other websites.
+
+This attack succeeds mainly because many people reuse the same passwords across different accounts.
+
+⸻
+
+Multi-Factor Authentication (MFA)
+
+MFA provides an extra layer of security by requiring two or more authentication factors before granting access.
+
+Examples:
+
+* Password + SMS code
+* Password + Authenticator app
+* Password + Fingerprint
+* Password + Face ID
+
+Even if a password is stolen, MFA significantly reduces the chances of unauthorized access.
+
+⸻
+
+The Three Authentication Factors
+
+1. Something you know
+    * Password
+    * PIN
+2. Something you have
+    * Mobile phone
+    * Security key
+3. Something you are
+    * Fingerprint
+    * Face recognition
+    * Iris scan
+
+⸻
+
+Practical Understanding
+
+During today’s quiz, I demonstrated an understanding of:
+
+* The difference between authentication and authorization.
+* Why password reuse is risky.
+* How credential stuffing works.
+* Why MFA is one of the most effective ways to protect online accounts.
+* The importance of creating strong, unique passwords.
+
+⸻
+
+Key Takeaways
+
+* Authentication verifies identity.
+* Authorization controls permissions.
+* Every account should have a unique password.
+* Credential stuffing exploits password reuse.
+* MFA is one of the strongest defenses against account compromise.
+* Cybersecurity analysts frequently investigate incidents involving weak passwords, compromised credentials, and missing MFA.
+
+⸻
+
+Reflection
+
+Today’s lesson reinforced that cybersecurity is not just about technology—it is also about protecting identities. Understanding how attackers exploit weak authentication practices has helped me appreciate the importance of strong passwords, unique credentials, and Multi-Factor Authentication.
+
+One thing I noticed today is that I was able to understand and remember these concepts after only a short period of study. That gives me confidence that consistent daily practice is helping me build a solid foundation.
+
+Every day of this journey brings me one step closer to becoming a skilled cybersecurity analyst.
+
+⸻
+
+Status: ✅ Day 5 Completed
+
+Current Progress: 5 consecutive days of cybersecurity learning completed.
 
