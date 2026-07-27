@@ -291,3 +291,116 @@ Status: ✅ Day 5 Completed
 
 Current Progress: 5 consecutive days of cybersecurity learning completed.
 
+Day 6 – Cybersecurity Learning Journey
+
+Date: July 27, 2026
+
+Introduction
+
+Day 6 was focused on strengthening my Linux skills through the OverTheWire Bandit wargame. Instead of only learning theory, I spent time solving real challenges that required me to think like a cybersecurity professional. Every level taught me how to navigate Linux, inspect files, and use command-line tools to find hidden information.
+
+⸻
+
+Topics Covered
+
+1. Continuing the Bandit Wargame
+
+Today I progressed through several Bandit levels, practicing Linux commands to locate passwords hidden in different files and directories.
+
+Each level introduced a new challenge that required careful observation and problem-solving.
+
+⸻
+
+2. Linux Commands Practiced
+
+Some of the commands I used today included:
+
+ls
+cd
+cat
+find
+file
+strings
+grep
+sort
+uniq
+
+These commands are essential for navigating Linux systems, identifying file types, searching for files, and extracting useful information.
+
+⸻
+
+3. Reading Different File Types
+
+One important lesson was that not every file can be read the same way.
+
+I learned how to:
+
+* Identify file types before opening them.
+* Search for human-readable text inside files.
+* Find specific information hidden within large amounts of data.
+
+Understanding the right tool for the job is an important Linux skill.
+
+⸻
+
+4. Problem-Solving Mindset
+
+Bandit is not just about memorizing commands. It teaches you how to:
+
+* Analyze clues.
+* Break problems into smaller steps.
+* Test different approaches.
+* Learn from mistakes.
+
+These are valuable skills for every cybersecurity analyst.
+
+⸻
+
+Challenges Faced
+
+Some levels were more difficult than expected, especially when passwords were hidden in unusual ways.
+
+Instead of giving up, I learned to:
+
+* Read the challenge carefully.
+* Check my commands for mistakes.
+* Ask questions when I got stuck.
+* Keep practicing until I understood the solution.
+
+⸻
+
+Key Takeaways
+
+* Linux is one of the most important skills in cybersecurity.
+* Small command-line tools can solve complex problems when combined.
+* Reading challenge instructions carefully saves time.
+* Persistence is just as important as technical knowledge.
+
+⸻
+
+Progress
+
+✅ Continued progressing through the OverTheWire Bandit labs.
+
+Levels worked on today included:
+
+* Bandit 5
+* Bandit 8
+* Bandit 9
+* Bandit 10
+
+Each completed level increased my confidence in using Linux and understanding how information is stored and retrieved from a system.
+
+⸻
+
+Looking Ahead
+
+Next, I will continue advancing through the Bandit levels while strengthening my understanding of Linux commands. My goal is not just to complete the challenges, but to understand why each solution works so I can apply the same thinking in real cybersecurity situations.
+
+⸻
+
+Personal Reflection
+
+Today’s session reminded me that cybersecurity is built on patience and consistency. Every command I learn and every challenge I solve brings me one step closer to becoming the cybersecurity analyst I aspire to be. I may not know everything yet, but I am making progress every single day—and that’s what matters most.
+
+#Cybersecurity #Linux #OverTheWire #Bandit #LearningInPublic #GitHub #FutureCybersecurityAnalyst
